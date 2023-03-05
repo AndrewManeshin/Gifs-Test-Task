@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+
+    <dimen name="gif_card_height">300dp</dimen>
+    <dimen name="gif_image_height">300dp</dimen>
+    <dimen name="gif_card_corner_radius">12dp</dimen>
+    <dimen name="gif_card_elevation">5dp</dimen>
+</resources>

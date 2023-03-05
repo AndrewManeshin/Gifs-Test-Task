@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_small">
+
+    <TextView
+        android:id="@+id/gifsTitleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        tools:text="Best Friends Sport GIF by UFC" />
+
+    <TextView
+        android:id="@+id/gifsUrlTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        tools:text="https://media2.giphy.com/media/FrPIeILE56oRRlcAAP/giphy-downsized.gif?cid=f6e2b00ag4pn4pymk975rqj38kigqi1pi8y41ly2udk3irpd&amp;rid=giphy-downsized.gif&amp;ct=g" />
+
+</LinearLayout>
