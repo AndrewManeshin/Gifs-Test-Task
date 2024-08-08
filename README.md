@@ -1,5 +1,4 @@
 # Gif search app - Made for android with kotlin #
-Test task for internship at VK Group.
 
 ## :sparkles: Реализованные возможности
 
